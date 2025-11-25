@@ -1,7 +1,6 @@
 # Jeongmin Cho
 ### Frontend Developer 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-Jeongmin&show_icons=true&hide=stars,issues&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjm0829)](https://solved.ac/jjm0829/)
 
 ## Tech Stack
